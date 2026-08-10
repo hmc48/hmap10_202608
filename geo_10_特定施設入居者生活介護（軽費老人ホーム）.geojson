@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_10_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "社会福祉法人　邦知会リバーサイド広沢【特定施設入居者生活介護（軽費老人ホーム）】群馬県桐生市広沢町6-307-3", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1070301443-00&ServiceCd=332&Type=search", "url2": "http//www.houchikai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.359239800000068, 36.3713938 ] } },
+{ "type": "Feature", "properties": { "内容": "社会福祉法人　邦知会　ハートフル広沢【特定施設入居者生活介護（軽費老人ホーム）】群馬県桐生市広沢町6-332-1", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1070300841-00&ServiceCd=332&Type=search", "url2": "http://www.houchikai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.361092500000041, 36.3702662 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　さわやか・倶楽部【特定施設入居者生活介護（軽費老人ホーム）】群馬県桐生市新里町新川1312", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1070301252-00&ServiceCd=332&Type=search", "url2": "http://www5.ocn.ne.jp/~genki-c/" }, "geometry": { "type": "Point", "coordinates": [ 139.257483699999966, 36.4123917 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団ほたか会　ケアハウス沼田【特定施設入居者生活介護（軽費老人ホーム）】群馬県沼田市下久屋町940-1", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1070600265-00&ServiceCd=332&Type=search", "url2": "http://www.hotaka.or.jp/03carehouse_numata.html" }, "geometry": { "type": "Point", "coordinates": [ 139.0852456, 36.6591618 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスいこい【特定施設入居者生活介護（軽費老人ホーム）】群馬県甘楽郡南牧村大字小沢1247番地ケアハウスいこい", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1072400623-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 138.750567030024712, 36.188264694234576 ] } }
+]
+}

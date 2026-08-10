@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_10_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "夜間対応型訪問介護グランポルト前橋【夜間対応型訪問介護】群馬県前橋市昭和町3丁目11番18号", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1090100858-00&ServiceCd=710&Type=search", "url2": "https://hotakakai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.06293740000001, 36.4054292 ] } }
+]
+}

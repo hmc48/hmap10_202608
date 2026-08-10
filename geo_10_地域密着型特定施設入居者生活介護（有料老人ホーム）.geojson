@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_10_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　コスモス細谷【地域密着型特定施設入居者生活介護（有料老人ホーム）】群馬県太田市細谷町１３４３－１", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1090500263-00&ServiceCd=361&Type=search", "url2": "http://carecosmos.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.3488036, 36.2766179 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　ふる里【地域密着型特定施設入居者生活介護（有料老人ホーム）】群馬県　太田市　只上町　1319-6", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1090500156-00&ServiceCd=361&Type=search", "url2": "http://guntei.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.399934900000062, 36.3340122 ] } }
+]
+}

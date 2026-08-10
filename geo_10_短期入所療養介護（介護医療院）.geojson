@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_10_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院ふえき【短期入所療養介護（介護医療院）】群馬県前橋市表町二丁目27番22号", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=10B0100010-00&ServiceCd=551&Type=search", "url2": "http://ubukatakai.com" }, "geometry": { "type": "Point", "coordinates": [ 133.9296692, 34.6607994 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　しのづか【短期入所療養介護（介護医療院）】群馬県藤岡市篠塚105-1", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=10B0900013-00&ServiceCd=551&Type=search", "url2": "http://www.shinozuka-hp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.0647439, 36.2588617 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　本多病院【短期入所療養介護（介護医療院）】群馬県安中市鷺宮205-1", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=10B1100019-00&ServiceCd=551&Type=search", "url2": "http://www.honda-hospital.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.8969105, 36.3051851 ] } },
+{ "type": "Feature", "properties": { "内容": "下仁田南牧医療事務組合下仁田厚生病院介護医療院【短期入所療養介護（介護医療院）】群馬県甘楽郡下仁田町大字下仁田409", "url": "https://www.kaigokensaku.mhlw.go.jp/10/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=10B2400012-00&ServiceCd=551&Type=search", "url2": "http://www15.wind.ne.jp/%7Es-hospital" }, "geometry": { "type": "Point", "coordinates": [ 138.785926, 36.2134267 ] } }
+]
+}
